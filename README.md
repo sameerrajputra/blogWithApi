@@ -1,3 +1,5 @@
+This simple blog project uses Api called https://jsonplaceholder.typicode.com to fetch posts from it and also user name for each post separately. Using Redux to manage the state for learning purpose.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
